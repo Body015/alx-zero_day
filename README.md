@@ -1,2 +1,1 @@
-my first repo
-My first readme
+MAnutd na bastard
